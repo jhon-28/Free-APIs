@@ -2,9 +2,8 @@
 
 Lista curada de APIs gratuitas (o con plan gratis) para proyectos, prácticas y prototipos.
 
-**Columna Auth:** `No` = no requiere clave · `apiKey` = requiere clave gratuita · `OAuth` = requiere autenticación OAuth.
 
-> ⚠️ Las APIs cambian con frecuencia. Verifica que cada enlace funcione y revisa los límites del plan gratis antes de usarla.
+ ⚠️ Las APIs cambian con frecuencia. Verifica que cada enlace funcione y revisa los límites del plan gratis antes de usarla.
 
 ## 📑 Índice
 
@@ -488,13 +487,4 @@ Lista curada de APIs gratuitas (o con plan gratis) para proyectos, prácticas y 
 
 ---
 
-## 🤝 Cómo contribuir
 
-1. Haz un fork del repositorio.
-2. Agrega la API en la categoría correspondiente, siguiendo el formato de la tabla.
-3. Verifica que el enlace funcione y que la API sea gratuita.
-4. Abre un Pull Request.
-
-## 📄 Licencia
-
-MIT
