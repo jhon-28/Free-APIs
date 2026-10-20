@@ -1,7 +1,9 @@
 # 🌐 300 APIs Gratis
 
 Lista curada de APIs gratuitas (o con plan gratis) para proyectos, prácticas y prototipos.
-
+Auth: No = no requiere clave. 
+Auth: apiKey = requiere clave gratuita.
+Auth: OAuth = requiere autenticación OAuth.
 
  ⚠️ Las APIs cambian con frecuencia. Verifica que cada enlace funcione y revisa los límites del plan gratis antes de usarla.
 
