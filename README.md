@@ -308,6 +308,7 @@ Auth: OAuth = requiere autenticación OAuth.
 ## 😄 Entretenimiento
 | API | Descripción | Auth |
 |-----|-------------|------|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Una idea diaria de viaje o experiencia con imagen y URL de origen; ejemplo en neerlandés | No |
 | [JokeAPI](https://v2.jokeapi.dev) | Chistes por categoría | No |
 | [Official Joke API](https://github.com/15Dkatz/official_joke_api) | Chistes aleatorios | No |
 | [Chuck Norris](https://api.chucknorris.io) | Chistes de Chuck Norris | No |
